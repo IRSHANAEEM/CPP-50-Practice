@@ -1,14 +1,13 @@
 #include <iostream>
 using namespace std;
 int Reverse(int n){
-int original,reminder,revnum=0;
-original=n;
+int reminder,revnum=0;
 while(n!=0){
 reminder= n % 10;
 n = n / 10;
 revnum=(revnum*10)+reminder;
 }
-return reminder;
+return revnum;
 }
 int main(){
 int num;
