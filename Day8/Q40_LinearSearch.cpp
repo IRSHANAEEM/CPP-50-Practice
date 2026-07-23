@@ -13,7 +13,7 @@ for(int i=0;i<size;i++){
 cout<<"Enter the Element to Search: ";
 cin>>SearchElement;
 int found = 0;
-for(int i=0;i<size;i++){3
+for(int i=0;i<size;i++){
 if( SearchElement == arr[i] ){
 cout<<"Element found at Position: "<<i+1;
 found = 1;
