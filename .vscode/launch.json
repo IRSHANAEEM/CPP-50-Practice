@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Acer/Desktop/CPP-50-Practice/Day9",
-      "program": "c:/Users/Acer/Desktop/CPP-50-Practice/Day9/build/Debug/outDebug",
+      "cwd": "c:/Users/Acer/Desktop/CPP-50-Practice/Day10",
+      "program": "c:/Users/Acer/Desktop/CPP-50-Practice/Day10/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
